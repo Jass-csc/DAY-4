@@ -42,11 +42,16 @@ in this diagram cpu socket is like a sandwich fits in cpu system:
     The CPU operates at incredibly high speeds (nanoseconds), while main memory (RAM) is significantly slower (tens of nanoseconds). This speed mismatch creates a bottleneck:      the CPU often has to wait for data to be fetched from RAM, leading to wasted cycles and reduced performance.
      ![image](https://github.com/user-attachments/assets/95ccc5f2-1a86-46c0-80d1-204604a6a991)
 
-then we disscus about size of CD/DVD: 
-     CD - 700mb
+then we disscus about size of CD/DVD:
+
+     CD - 700mb  
+     
      DVD - single layer - 4.7gb
+     
      DVD - double layer - 8.5gb
+     
      BD - single layer - 25gb - advanced disk
+     
      BD - double layer - 50gb
 
 
